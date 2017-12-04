@@ -1,5 +1,1 @@
-name = input
-print ("Hi there, what is your name?")
-print ("Hello")
-print input
-print ("How are you?")
+print ("Hello World \nI am in ISD class right now")
